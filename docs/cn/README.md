@@ -10,7 +10,7 @@ Apache RocketMQ开发者指南
 - [特性(Features)](features.md)：介绍RocketMQ实现的功能特性。 
 
 
-### 2. 架构设计
+### 2. 架构设计 测试
 
 - [架构(Architecture)](architecture.md)：介绍RocketMQ部署架构和技术架构。
 
